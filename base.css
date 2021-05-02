@@ -79,10 +79,10 @@ html.theme-dark .force-theme.theme-light {
   --text-muted: #959da5;
   --text-focus: #ffffff;
   --text-link: rgb(var(--link-colour));
-  --background-light: #2f363d;
-  --background: #24292e;
-  --background-alt: #2a3036;
-  --background-dark: #1d2125;
+  --background-light: #2B2B2B;
+  --background: #212121;
+  --background-alt: #292929;
+  --background-dark: #000000;
   --guilds-background:var(--background);
   --white:#ffffff;
   --scrollbar-background: rgb(255 255 255 / 0.1);
